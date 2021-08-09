@@ -61,30 +61,42 @@ dev_caption = """
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
 
 
-**/ping:** Check ping of the server!!
-**/addsudo:** Use this while replying to anyone will add him as a sudo user!!
-**/rmsudo:** Use this while replying to anyone will remove him from sudo user!!
-**/leave <chat id>:** Bot will leave that chat!!
-**/updates:** Check new updates and updates the bot!!
-**/restart:** Restarts the bot!!(Too fast!! **Supersonic**)
+• **/ping:** Check ping of the server!!
+• **/addsudo:** Use this while replying to anyone will add him as a sudo user!!
+• **/rmsudo:** Use this while replying to anyone will remove him from sudo user!!
+• **/leave <chat id>:** Bot will leave that chat!!
+• **/updates:** Check new updates and updates the bot!!
+• **/restart:** Restarts the bot!!(Too fast!! **Supersonic**)
 
 [©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @TeamGladiators
 """
 spam_caption = """
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
 
-**/spam:** Spams text for given counter!!\nSyntax: /spam <counter> <text>
-**/uspam:** Spams text continuosly!!\nSyntax: /uspam <text>
-**/dspam:** Delay spam a text for given counter after given time!!
+• **/spam:** Spams text for given counter!!\nSyntax: /spam <counter> <text>
+
+• **/uspam:** Spams text continuosly!!\nSyntax: /uspam <text>
+
+• **/dspam:** Delay spam a text for given counter after given time!!
+
 Syntax: /dspam <seconds> <counter> <text>
-**/mspam:** Spams media for given counter!!
+
+• **/mspam:** Spams media for given counter!!
+
 Syntax: /mspam <counter>
+
 (replying to any media)
-**/packspam:** Spams all stickers from sticker pack!!
+
+• **/packspam:** Spams all stickers from sticker pack!!
+
 Syntax: /packspam (replying to any sticker)
-**/replycurse:** Activates reply and curse on the user!!
+
+• **/replycurse:** Activates reply and curse on the user!!
+
 Syntax: /replycurse (replying to anyone)
-**/dreplycurse:** Deactivates reply and curse on the user!!
+
+• **/dreplycurse:** Deactivates reply and curse on the user!!
+
 Syntax: /dreplycurse (replying to anyone)
 
 [©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @TeamGladiators
