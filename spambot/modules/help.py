@@ -127,8 +127,8 @@ helpbuttons = [
 
 help_buttons = [
     [
-        InlineKeyboardButton(text="Bᴀᴄᴋ", callback_data="back"),
-        InlineKeyboardButton(text="Cʟᴏsᴇ", callback_data="close")
+        InlineKeyboardButton(text="↩️ʙᴀᴄᴋ", callback_data="back"),
+        InlineKeyboardButton(text="💠Cʟᴏsᴇ💠", callback_data="close")
     ]
 ]
 startbuttons = [
@@ -147,7 +147,7 @@ startbuttons = [
   
 openbuttons = [
     [
-        InlineKeyboardButton(text="Oᴘᴇɴ Aɢᴀɪɴ", callback_data="open")
+        InlineKeyboardButton(text="📂Oᴘᴇɴ Aɢᴀɪɴ📂", callback_data="open")
     ]
 ]
    
