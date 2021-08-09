@@ -90,11 +90,11 @@ from telegram.utils.helpers import escape_markdown
 
 # helpbuttons = [
 #     [
-#         InlineKeyboardButton(text="Spam Cmds", callback_data="spamcmds"),
-#         InlineKeyboardButton(text="Dev Cmds", callback_data="devcmds")
+#         InlineKeyboardButton(text="🔸Spam Cmds", callback_data="spamcmds"),
+#         InlineKeyboardButton(text="🔸Dev Cmds", callback_data="devcmds")
 #     ],
 #     [
-#         InlineKeyboardButton(text="Close", callback_data="close")
+#         InlineKeyboardButton(text="•|Close|•", callback_data="close")
 #     ]
 # ]
 
