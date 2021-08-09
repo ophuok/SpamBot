@@ -114,14 +114,14 @@ close_caption = """
 """
 helpbuttons = [
     [
-        InlineKeyboardButton(text="Sᴘᴀᴍ Cᴍᴅs", callback_data="spamcmds"),
-        InlineKeyboardButton(text="Dᴇᴠ Cᴍᴅs", callback_data="devcmds")
+        InlineKeyboardButton(text="🔸Sᴘᴀᴍ Cᴍᴅs", callback_data="spamcmds"),
+        InlineKeyboardButton(text="🔸Dᴇᴠ Cᴍᴅs", callback_data="devcmds")
     ],
     [
-        InlineKeyboardButton(text="Cʜᴇᴄᴋ Pɪɴɢ", callback_data="pings")
+        InlineKeyboardButton(text="🏓Cʜᴇᴄᴋ Pɪɴɢ", callback_data="pings")
     ],
     [
-        InlineKeyboardButton(text="Cʟᴏsᴇ", callback_data="close")
+        InlineKeyboardButton(text="•Cʟᴏsᴇ•", callback_data="close")
     ]
 ]
 
